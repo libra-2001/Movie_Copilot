@@ -46,3 +46,9 @@ We tested the assumption that **4K content on Mobile** leads to higher churn.
    ```bash
    git clone [https://github.com/libra-2001/Movie_Copilot.git](https://github.com/libra-2001/Movie_Copilot.git)
    cd Movie_Copilot
+
+2. Install Dependencies:
+pip install -r requirements.txt
+
+3. Run the App:
+streamlit run app.py
